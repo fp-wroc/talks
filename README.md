@@ -3,9 +3,7 @@ Functional Programming Wroclaw community talks
 
 Talks:
 
-## Introduction to OCaml programming language
-
-### Krzysztof Leśniak
+## Introduction to OCaml programming language by Krzysztof Leśniak`
 
  * Slides: https://serpent7776.github.io/ocaml-intro-slides/ 
 
