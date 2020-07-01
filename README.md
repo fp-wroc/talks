@@ -7,6 +7,10 @@ Functional Programming Wroclaw community talks
 
 ## Algebraic Effects by Maciej Piróg
 
- * [Slides (in Polish)](https://github.com/fp-wroc/talks/blob/master/files/algebraic_effects_PL.pdf)
- * [Sources](https://github.com/fp-wroc/talks/blob/master/files/algebraic_effects.zip)
+ * [Slides (in Polish)](./files/algebraic_effects_PL.pdf)
+ * [Sources](./files/algebraic_effects.zip)
+
+## Can't Hack This: A hard-headed introduction to Nix by Patryk Wychowaniec
+
+ * [Slides](./files/cant_hack_this.pdf)
 
